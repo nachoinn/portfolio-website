@@ -136,6 +136,17 @@ input, select, textarea {
         padding-bottom: 120px;
     }
 
+    h2 span {
+        background: rgb(34, 38, 41, 0.8);
+        border-radius: 20px;
+    }
+
+    p span {
+        background: rgb(34, 38, 41, 0.8);
+        border-radius: 10px;
+    }
+
+
 	h3 {
 		font-size: 1.5em;
 	}
